@@ -12,8 +12,9 @@
 **LinkedIn**
 
 <a href="https://www.linkedin.com/in/peter-hartog-2002a117b/">
-<img align="left" alt="Peter Hartog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Peter Hartog" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br />
 <br />
 
 **Languages and Tools:**

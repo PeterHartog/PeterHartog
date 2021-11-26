@@ -3,7 +3,7 @@
 <br/>
 
 - 👀 I’m interested in ML, ML in drug discovery and explainable AI.
-- 🌱 I’m currently learning Pytorch and how to apply it in drug discovery.1
+- 🌱 I’m currently learning Pytorch and how to apply it in drug discovery.
 - 👯 Part of the AI in [Drug Discovery Horizon 2020 PhD project](https://ai-dd.eu/).
 - 💞️ I’m looking to collaborate on code reviews and learning how to clean code.
 - 📫 How to reach me: Leave a pull request.

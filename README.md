@@ -3,7 +3,7 @@
 - I have experience in Academia, Regulation and Industry.
 - Currently part of the the AI in [Drug Discovery Horizon 2020 PhD project](https://ai-dd.eu/).
 - My interests include ML in drug discovery and explainable AI.
-- Check out the registry-factory PyPI or GitHub to use dynamic registrationa and invocation of objects!
+- Check out the registry-factory PyPI or GitHub to use dynamic registration and invocation of objects!
 <a href="https://github.com/aidd-msca/registry-factory"> GitHub: registry-factory</a>
 
 <br/>
